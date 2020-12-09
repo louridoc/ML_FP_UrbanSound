@@ -5,10 +5,10 @@ For this project, we explored the classification for the audio-based UrbanSound8
 This problem does have existing solutions using CNN architectures such as:
 Convolution2D, Maxpooling2D, GlobalAveragePooling 2D. Other solutions use Softmax layers, Sequential layers and Basic Dropout or Flatten and Activation layers. Here, we explored 3 different approaches to the existing ones, to evaluate the performance of the same and analyze if the accuracy can be improved. 
 
-The approaches in this repository are:
-\1. Approach 1  
-\2. Approach 2
-\3. Approach 3
+The approaches in this repository are:  
+\1. Approach 1    
+\2. Approach 2  
+\3. Approach 3  
 
 
 Each notebook has its own instructions. To run the models, the dataset should be downloaded first. 
