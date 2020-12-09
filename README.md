@@ -1,7 +1,7 @@
 # ML_FP_UrbanSound  
 
 Members:   
-Rebanta Roy  rr3659
+Rebanta Roy  rr3659  
 Christian Lourido  cl4906  
 
 This is the final project for the Machine Learning Class course at NYU, for professor Sundeep Rangan.  
